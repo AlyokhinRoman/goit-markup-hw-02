@@ -1,0 +1,94 @@
+body {
+    font-family: "Roboto", sans-serif;
+    color: #212121;
+    background-color: #fafafa;
+    }
+.page-header{
+    color: #212121;
+    font-size: 32px;
+    text-align: center;
+    line-height: 1.333;
+    letter-spacing: 3px;
+}
+.page-title{
+    color: #212121;
+    font-size: 32px;
+    text-align: center;
+    line-height: 1.333;
+    letter-spacing: 3px;
+}
+.benefits-title{
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2E2F42;
+    text-transform: capitalize;
+}
+.benefits-item-header{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+}
+.benefits-item-desc{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434445;
+}
+.team-header{
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2E2F42;
+    text-transform: capitalize;
+}
+.team-item{
+    background-color: #FFFFFF;
+}
+.team.item-header{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+}
+.team-item-desc{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434445;
+}
+.portfolio-header{
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2E2F42;
+    text-transform: capitalize;
+}
+.portfolio-item{
+    background-color: #FFFFFF;
+}
+.portfolio-item-header{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+}
+.portfolio-item-desc{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434445;
+}
