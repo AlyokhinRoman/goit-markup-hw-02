@@ -20,6 +20,18 @@ body {
 .page-nav .link:hover, .page-nav .link:focus{
     color: #404bbf;
 }
+.address{
+    font-style: normal;
+}
+.email{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+.email .link:hover, .email .link.foocus{
+    color: #404BBF;
+}
 .page-title{
     color: #212121;
     font-size: 32px;
@@ -94,12 +106,20 @@ body {
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
-    color: #434455;
+    color: #2E2F42;
 }
 .portfolio-item-desc{
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #434445;
+    color: #434455;
+}
+.footer{
+    background-color: #2E2F42;
+}
+.footer.desc{
+    line-height: 1.5;
+    color: #F4F4FD;
+    letter-spacing: 0.02em;
 }
