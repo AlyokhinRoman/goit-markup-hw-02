@@ -69,12 +69,15 @@ body {
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: #FFFFFF;
-    
+    cursor: pointer;
 }
-.button-order-service .button:hover , .button-order-service .button:focus
+.button-order-service:hover
+{
+    background-color: #404BBF;     
+}
+.button-order-service:focus
 {
     background-color: #404BBF;
-    cursor: pointer; 
 }
 .benefits-title{
     font-weight: 700;
