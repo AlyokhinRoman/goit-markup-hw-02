@@ -40,6 +40,12 @@ body {
 .page-nav .link:hover, .page-nav .link:focus{
     color: #404bbf;
 }
+.menu-item{
+    color: #2e2f42;
+}
+.menu-item .link:hover, .menu-item .link:focus{
+    color: #404bbf;
+}
 .address{
     font-style: normal;
 }
