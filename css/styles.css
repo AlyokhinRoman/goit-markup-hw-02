@@ -82,6 +82,9 @@ body {
     letter-spacing: 0.02em;
     color: #434455;
 }
+.about-team{
+    background-color: #F4F4FD;
+}
 .team-header{
     font-weight: 700;
     background-color: #F4F4FD;
