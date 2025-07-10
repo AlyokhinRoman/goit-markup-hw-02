@@ -23,18 +23,6 @@ body {
     color: #2E2F42;
 }
 
-.page-nav {
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
-}
-
-.page-nav .link:hover,
-.page-nav .link:focus {
-    color: #404bbf;
-}
 .page-title{
     background-color: #2E2F42;
     color: #FFFFFF;
@@ -45,6 +33,10 @@ body {
 }
 
 .menu-item{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 0.02em;
     color: #2e2f42;
 }
 .menu-item:hover, 
