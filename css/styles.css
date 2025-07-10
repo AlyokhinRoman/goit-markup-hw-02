@@ -61,16 +61,20 @@ body {
     letter-spacing: 0.02em;
     color: #434455;
 }
-.contacts .link:hover, .contacts .link:focus{
+.contacts:hover, 
+.contacts:focus{
     color: #404BBF;
 }
-.email{
+.email
+{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
 }
-.email .link:hover, .email .link.focus{
+.email:hover,
+.email:focus
+{
     color: #404BBF;
 }
 .solutions{
