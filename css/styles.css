@@ -106,6 +106,7 @@ body {
     color: #434455;
 }
 .about-team{
+    text-align: center;
     background-color: #F4F4FD;
 }
 .team-header{
@@ -123,8 +124,7 @@ body {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
-    letter-spacing: 0.02em;
-    color: #2E2F42;
+    letter-spacing: 0.02em;    
 }
 .team-item-header{
     font-weight: 500;
