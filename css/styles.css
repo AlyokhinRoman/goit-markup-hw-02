@@ -55,25 +55,17 @@ body {
 .address{
     font-style: normal;
 }
-.contacts{
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #434455;
-}
-.contacts:hover, 
-.contacts:focus{
-    color: #404BBF;
-}
-.email
+
+.address-item
 {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
 }
-.email:hover,
-.email:focus
+.address-item:hover,
+.address-item:focus,
+.address-item:active
 {
     color: #404BBF;
 }
